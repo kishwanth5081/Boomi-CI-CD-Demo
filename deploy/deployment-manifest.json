@@ -1,1 +1,5 @@
-
+{
+  "release": "1.0",
+  "process": "CI-CD-Demo-Process-Boomi",
+  "description": "CI/CD Demo"
+}
